@@ -1,4 +1,0 @@
-beautifulsoup4
-html2text
-aiofiles
-chardet
